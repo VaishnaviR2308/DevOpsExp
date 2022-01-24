@@ -1,0 +1,44 @@
+commit d23fad7b1081ca8d032b193d93413101061d39e1
+Author: Vaishnavi Ransubhe <vaishnaviransubhe1@gmail.com>
+Date:   Mon Jan 24 23:18:55 2022 +0530
+
+    First commit: added 5 new files - 3 txt files, 2 python files
+
+diff --git a/myfile1.text b/myfile1.text
+new file mode 100644
+index 0000000..e69de29
+diff --git a/myfile1.txt b/myfile1.txt
+new file mode 100644
+index 0000000..c0aad2e
+--- /dev/null
++++ b/myfile1.txt
+@@ -0,0 +1 @@
++This will be the first file to the Staging Area
+diff --git a/myfile2.txt b/myfile2.txt
+new file mode 100644
+index 0000000..7fa932b
+--- /dev/null
++++ b/myfile2.txt
+@@ -0,0 +1 @@
++This will be the second file to the Staging Area
+diff --git a/myfile3.txt b/myfile3.txt
+new file mode 100644
+index 0000000..1e1f94b
+--- /dev/null
++++ b/myfile3.txt
+@@ -0,0 +1 @@
++This will be the third file to the Staging Area
+diff --git a/pyfile1.py b/pyfile1.py
+new file mode 100644
+index 0000000..8863442
+--- /dev/null
++++ b/pyfile1.py
+@@ -0,0 +1 @@
++print('First pythong file')
+diff --git a/pyfile2.py b/pyfile2.py
+new file mode 100644
+index 0000000..8da0ed3
+--- /dev/null
++++ b/pyfile2.py
+@@ -0,0 +1 @@
++print('Second python file')
