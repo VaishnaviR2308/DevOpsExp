@@ -1,1 +1,2 @@
 This will be the third file to the Staging Area
+Merge conflict here
